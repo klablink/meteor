@@ -1,6 +1,7 @@
 Package.describe({
-  summary: 'The Meteor command-line tool',
-  version: '3.0.0-beta.3',
+  name: 'kubixlab:meteor-tool',
+  summary: 'The Meteor command-line tool with fixes for klab',
+  version: '3.0.0-beta.0_1'
 });
 
 Package.includeTool();
