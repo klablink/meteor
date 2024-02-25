@@ -1,10 +1,10 @@
 {
   "track": "kubixlab:METEOR",
-  "version": "3.0-beta.4_1",
+  "version": "3.0-beta.4_2",
   "recommended": false,
   "official": false,
   "description": "Meteor experimental release",
-  "tool": "kubixlab:meteor-tool@3.0.0-beta.4_1",
+  "tool": "kubixlab:meteor-tool@3.0.0-beta.4_2",
   "packages": {
     "accounts-2fa": "3.0.0-beta300.4",
     "accounts-base": "3.0.0-beta300.4",
